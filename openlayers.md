@@ -44,13 +44,6 @@ See the following examples for more detail on bundling OpenLayers with your appl
 
 OpenLayers appreciates contributions of all kinds.  We especially want to thank our fiscal sponsors who contribute to ongoing project maintenance.
 
-<br>
-
-[![Pozi logo](./sponsor-logos/pozi.png)](https://pozi.com/)
-
-> Pozi helps connect communities through spatial thinking.
-> We love Openlayers and it forms a core part of our platform.
-> https://pozi.com/ https://app.pozi.com/
 
 <br>
 
